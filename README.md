@@ -1,6 +1,6 @@
 # Matilda's pizza
 
-Built using React.js, HTML and CSS
+Built using React.js.
 
 Link:https://matildaspizza.netlify.app/
 
