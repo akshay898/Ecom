@@ -2,8 +2,6 @@
 
 Built using React.js.
 
-Link:https://matildaspizza.netlify.app/
-
 This website is built using the commerce.js api (https://commercejs.com/), where I added the products and cost details, and we can monitor the prices and orders using this api.
 
 
